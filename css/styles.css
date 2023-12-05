@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar, footer {
+    background: rgb(85, 19, 61);
+    color: #fff;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+}
+
+body {
+    background: linear-gradient(140deg, #414143, #191241);
+}
+
+section {
+    background-color: #bbb7b7;
+}
+
+.estilo-input {
+    background-color: #f0e6e6;
+}
+
+.tabla-gral th{
+    background-color: #f0e6e6;
+}
+
+.tabla-gral  tr:nth-child(odd) {
+    background-color: #f0e6e6;
+}
+
+.tabla-gral  tr:nth-child(even) {
+    background-color: #bbb7b7;
+}
+
+li {
+    list-style-type: none;
+}
+
+#consulta span{
+    background-color: #f0e6e6;
+
+}
+
